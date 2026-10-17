@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ifchopper.github.io/grasshopper-documentation/img/logo.svg" width="96" alt="IfcHopper logo">
+  <img src="https://ifchopper.github.io/grasshopper-documentation/img/ifchopper.svg" width="96" alt="IfcHopper logo">
 </p>
 
 <h1 align="center">IfcHopper</h1>
